@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+    padding:150px;
+    margin-left:200px;
+    font-size: 20px;
+    border: 8px solid green;
+    width:50%;
+background-image: url(./img/12510329_420494648149910_4957953742555912921_n.png);
+
+}
+h6{
+    font-size: 30px;
+    color: greenyellow;
+    margin:0 auto;
+}
+h2{
+    font-size: 50px;
+    color:orangered;
+}
+
